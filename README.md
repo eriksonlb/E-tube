@@ -13,4 +13,15 @@ pip install .
 
 feito isso, vocês irão dar um git clone dentro do arquivo
 
-git clone (link do meu script)
+git clone https://github.com/lucas-Dk/E-tube
+
+em seguida irão dar este comando
+
+no linux > ls
+no windows > dir
+
+em seguida irão dar este comando
+
+python3 e-tube.py
+
+pronto, já pode baixar seus vídeos! Atualização virá em breve!
