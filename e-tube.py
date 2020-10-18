@@ -31,7 +31,7 @@ else:
 	|  |____             |  |     |  `--'  | |  |_)  | |  |____ 
 	|_______|            |__|      \______/  |______/  |_______|
 										
-					  V 1.1						 \033[m""")
+										V 1.1						 \033[m""")
 		print("\nOpção em vermelho não está funcionando no momento!")
 		print("""
 Menu:
@@ -67,9 +67,9 @@ Menu:
 				print("\033[1;32mFazendo download da stream com a melhor qualidade disponível...\033[m")
 				video = yt.streams.get_highest_resolution()
 				video.download()
-				print("Download completo do vídeo! Verifique na pasta onde se encontra o script!")
-				print("Voltando ao menu...")
-				suspender(1.3)
+				print("\nDownload completo do vídeo! Verifique na pasta onde se encontra o script!")
+				print("Voltando ao menu...\n")
+				suspender(1.6)
 
 			elif user == 2:
 				print("Opção de baixar uma playlist está executando...\n")
@@ -94,8 +94,8 @@ Menu:
 						print("ERROR: Download quebrado por que encontrei uma url quebrada!")
 					else:
 						pass
-				print("Download Completo da playlist! Verifique na pasta onde se encontra o script!")
-				suspender(1.3)
+				print("\nDownload Completo da playlist! Verifique na pasta onde se encontra o script!\n")
+				suspender(1.6)
 
 			elif user == 3:
 
