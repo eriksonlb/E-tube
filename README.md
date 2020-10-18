@@ -1,3 +1,10 @@
+# Atualização chegou:
+18/10/2020
+
+Adicionado a opção 2 (opção de baixar uma playlist)
+
+
+
 # E-tube
 Script para download de video, musica e playlists do YouTube
 
