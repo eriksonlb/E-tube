@@ -22,6 +22,7 @@ no windows > dir
 
 em seguida irão dar este comando
 
+cd E-tube
 python3 e-tube.py
 
 pronto, já pode baixar seus vídeos! Atualização virá em breve!
