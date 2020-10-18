@@ -1,2 +1,16 @@
 # E-tube
 Script para download de video, musica e playlists do YouTube
+
+# Como usar:
+
+Vocês precisaram clonar este repositório do pytube e dar os comandos
+
+git clone https://github.com/nficano/pytube
+
+cd pytube
+
+pip install .
+
+feito isso, vocês irão dar um git clone dentro do arquivo
+
+git clone (link do meu script)
